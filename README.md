@@ -15,7 +15,7 @@ https://arxiv.org/abs/2404.06425
 https://ttchengab.github.io/zest/
 
 ### 🖼 Output
-
+![Screenshot 2024-04-16 181358](https://github.com/camenduru/zest-replicate/assets/54370274/eab2d189-dcab-4fd9-afaf-56fc35744079)
 
 ### 🏢 Sponsor
 https://replicate.com
